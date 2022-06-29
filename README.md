@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&animation=twinkling" />
 
-## Hi, I'm Yun Ji✨
-🌱 Learning Web full stack
+# Hello, world ! ✨
+
+🌱 I'm learning to be a full stack web developer.
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&animation=twinkling" />
